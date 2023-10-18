@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about **JS, ReactJS, PHP, AWS**
+- 💬 Ask me about ** JS, ReactJS, NodeJS, AWS **
 - 📫 How to reach me: jeevantj93@gmail.com
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ... -->
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanJain&layout=compact&langs_count=6"/>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/JeevanJain) 
+<!-- ![Profile views](https://gpvc.arturio.dev/JeevanJain) -->
