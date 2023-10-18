@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ** JS, ReactJS, NodeJS, AWS **
+- 💬 Ask me about **JS, ReactJS, NodeJS, AWS**
 - 📫 How to reach me: jeevantj93@gmail.com
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ... -->
