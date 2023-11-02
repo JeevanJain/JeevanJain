@@ -20,4 +20,12 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanJain&layout=compact&langs_count=6"/>
 </div>
 
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="left"  src="https://github-profile-trophy.vercel.app/?username=JeevanJain&theme=juicyfresh&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
 <!-- ![Profile views](https://gpvc.arturio.dev/JeevanJain) -->
